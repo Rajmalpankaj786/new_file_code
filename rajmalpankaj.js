@@ -1,11 +1,11 @@
 {
   let a = 5;
   let b = 6;
-if(a>b)
+if(a<b)
 {
-   console.log("yes");
+   console.log("b is grather -" b);
 }
 else {
- console.log("no");
+ console.log("a is grather -" a);
 }
 }
