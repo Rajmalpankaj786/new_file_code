@@ -1,7 +1,7 @@
 {
   let a = 5;
   let b = 6;
-if(a<b)
+if(a<b]
 {
    console.log("b is grather -" b);
 }
